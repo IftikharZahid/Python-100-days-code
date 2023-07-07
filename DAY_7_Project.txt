@@ -1,7 +1,7 @@
-https://replit.com/@AqsaAshfaq07/Hangman?v=1
 
 
-# Head over the link to get the linked content. Code is given here too 
+# Head over the link to get the linked content. Code is given here too
+ 
 import random
 from hangman_words import word_list
 from hangman_art import logo, stages
