@@ -1,7 +1,5 @@
-Head over to replit and fork it 
-https://replit.com/@AqsaAshfaq07/Password-Generator?v=1
 
-OR access code here!
+
 # code of the project 
 # Welcome to the Password Generator!!
 

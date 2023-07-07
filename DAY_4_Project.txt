@@ -1,4 +1,3 @@
-https://replit.com/@AqsaAshfaq07/RockPaperScissor#main.py
 
 
 # Project Code

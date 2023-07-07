@@ -1,6 +1,4 @@
 
-https://replit.com/@AqsaAshfaq07/Treasure-Island?v=1
-
 
 # Treasure Island 
 print("Welcome to the Treasure Island. \n Your mission is to find the treasure. \n Are you ready? \n Let's get started!!")
